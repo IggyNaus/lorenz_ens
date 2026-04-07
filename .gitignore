@@ -24,3 +24,4 @@ venv/
 
 # pip packaging (students will create these)
 # pyproject.toml  ← intentionally not ignored — students add this
+.pypirc
